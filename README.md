@@ -149,7 +149,8 @@ To run this file, using
 python3 generateMesh.py
 ```
 
-
+## Code for assigning materials for neper mesh in abaqus
+The code is upload [here](/assignMaterials.py)
 
 
 
